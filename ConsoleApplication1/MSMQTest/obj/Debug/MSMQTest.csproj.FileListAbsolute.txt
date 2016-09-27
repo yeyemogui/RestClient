@@ -1,0 +1,5 @@
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\MSMQTest\bin\Debug\MSMQTest.dll
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\MSMQTest\bin\Debug\MSMQTest.pdb
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\MSMQTest\obj\Debug\MSMQTest.dll
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\MSMQTest\obj\Debug\MSMQTest.pdb
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\MSMQTest\obj\Debug\MSMQTest.csprojResolveAssemblyReference.cache

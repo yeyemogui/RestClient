@@ -1,0 +1,7 @@
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\bin\Debug\RestClient.dll
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\bin\Debug\RestClient.pdb
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\obj\Debug\RestClient.dll
+c:\users\administrator.tm5ue\documents\visual studio 2013\Projects\ConsoleApplication1\RestClient\obj\Debug\RestClient.pdb
